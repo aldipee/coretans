@@ -1,0 +1,13 @@
+- name: Aldi Pranata
+  bio: |
+    Written by Aldi Pranata who lives and works in Yogyakarta building useful things.
+    You should follow him on Twitter or Instagram.
+  avatar: ./avatars/aldipee.jpg
+  featured: true
+  social:
+    - name: github
+      url: https://github.com/aldipee
+    - name: twitter
+      url: https://twitter.com/aldipeee
+    - name: instagram
+      url: https://instagram.com/aldipee
